@@ -79,7 +79,7 @@ and are [purchasable online instantly](https://shop.factom.com/).
 
 FAT is built on [Factom](/), a decentralized Blockchain run by 100s of
 community members and over 40 verified enterprise companies worldwide. Every 10
-Minutes Factom's data is recorded into the Bitcoin Blockchain to prove it's
+Minutes Factom's data is recorded into the Bitcoin Blockchain to prove its
 existence and secure it forever.
 <br/>
 <br/>
@@ -96,7 +96,7 @@ has been awarded multiple [Department of Homeland
 Security](https://www.dhs.gov/science-and-technology/news/2018/06/15/news-release-dhs-awards-austin-based-factom-inc-192k)
 and [Gates
 Foundation](https://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database/Grants/2016/11/OPP1159449)
-grants for it's work securing data in law enforcement applications and the
+grants for its work securing data in law enforcement applications and the
 developing world.
 
 ------
@@ -164,7 +164,7 @@ as deemed appropriate and beneficial for the community.
 
 No more than 1 minute of your time. Simply follow the instructions when the
 wallet starts up for the first time to create an address you can then share
-with others. This address generated is a Factom address that can also accept
+with others. This generated address is a Factom address that can also accept
 Factoids. You can also import a Factoid address if you have one already.
 
 
